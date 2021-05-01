@@ -39,7 +39,7 @@ footer{padding:50px 0; background: #3498db;}
 .top i{color:#fff}
 .social{text-align:right}
 .social ul{margin:5px 0 0 0;padding:0}
-.social li{display:inline-block;font-size:1.25em;list-style:none}
+.social li{display:inline-flex;font-size:1.25em;list-style:none;}
 .social a{display:block;color:#fff;padding:10px}
 .social a:hover{color:#74808a}
 .btn-rounded-white{display:inline-block;color:#fff;padding:15px 25px;border:3px solid #fff;border-radius:30px;transition:.5s ease all}
